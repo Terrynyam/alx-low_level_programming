@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- * main - program prints a[2] = 98
- * followed by new line
- * Return:0 always succes
- */
+
 int main(void)
 {
 	int n;
