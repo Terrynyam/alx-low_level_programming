@@ -1,8 +1,5 @@
 #include <stdio.h>
-/**
- * main - just print the required
- * Return: 0 always success
- */
+
 int main(void)
 {
 	int n;
@@ -10,7 +7,7 @@ int main(void)
 	int *p;
 
 	a[2] = 1024;
-	p = &n;
+	p = &ar *infinite_add(char *n1, char *n2, char *r, int size_r);i;
 	/*
 	 * write your line of code here...
 	 * Remember:
