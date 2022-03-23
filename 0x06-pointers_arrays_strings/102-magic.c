@@ -7,7 +7,7 @@ int main(void)
 	int *p;
 
 	a[2] = 1024;
-	p = &ar *infinite_add(char *n1, char *n2, char *r, int size_r);i;
+	p = &n;
 	/*
 	 * write your line of code here...
 	 * Remember:
